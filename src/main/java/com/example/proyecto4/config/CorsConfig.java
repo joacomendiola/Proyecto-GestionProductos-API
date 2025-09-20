@@ -13,7 +13,7 @@ public class CorsConfig {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/**")
-                        .allowedOrigins("https://frontend-productos.onrender.com") // URL del frontend en Render
+                        .allowedOrigins("https://frontend-productos-80iy.onrender.com") // URL del frontend en Render
                         .allowedMethods("GET", "POST", "PUT", "DELETE");
             }
         };
