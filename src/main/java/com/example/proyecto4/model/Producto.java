@@ -13,7 +13,7 @@ public class Producto {
 
     private String nombre;
     private Double precio;
-
+    private String imagenUrl;
     //Getter y Setters
     public Long getId(){
         return id;
@@ -34,4 +34,11 @@ public class Producto {
         this.precio=precio;
     }
 
+    public String getImagenUrl() {
+        return imagenUrl;
+    }
+
+    public void setImagenUrl(String imagenUrl) {
+        this.imagenUrl = imagenUrl;
+    }
 }
