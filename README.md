@@ -5,8 +5,8 @@
 ![Java](https://img.shields.io/badge/Java-17-red)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
-![Estado](https://img.shields.io/badge/Estado-Terminado-brightgreen)
 ![Render](https://img.shields.io/badge/Deploy-Render-purple)
+![Estado](https://img.shields.io/badge/Estado-Terminado-brightgreen)
 
 **API REST completa para gestión de productos y usuarios desarrollada con Spring Boot y PostgreSQL**
 
